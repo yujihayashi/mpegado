@@ -1,0 +1,17 @@
+.ycon{ background:url("ycon.png") top left no-repeat; }
+.ycon-passo-4{ width:165px; height:112px; background-position:-1px -1px; }
+.ycon-passo-3{ width:189px; height:112px; background-position:-1px -114px; }
+.ycon-passo-2{ width:131px; height:112px; background-position:-1px -227px; }
+.ycon-passo-1{ width:120px; height:112px; background-position:-1px -340px; }
+.ycon-arrow-right-lg{ width:42px; height:67px; background-position:-133px -227px; }
+.ycon-phone-white{ width:40px; height:40px; background-position:-122px -340px; }
+.ycon-ycon_r8_c16{ width:50px; height:38px; background-position:-1px -453px; }
+.ycon-phone{ width:33px; height:33px; background-position:-52px -453px; }
+.ycon-check-white{ width:31px; height:24px; background-position:-86px -453px; }
+.ycon-arrow-right-white{ width:11px; height:21px; background-position:-167px -1px; }
+.ycon-arrow-right{ width:11px; height:21px; background-position:-179px -1px; }
+.ycon-facebook{ width:20px; height:20px; background-position:-163px -340px; }
+.ycon-instagram{ width:20px; height:20px; background-position:-118px -453px; }
+.ycon-twitter{ width:26px; height:20px; background-position:-139px -453px; }
+.ycon-mail-sm{ width:20px; height:15px; background-position:-166px -453px; }
+
